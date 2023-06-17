@@ -1,0 +1,53 @@
+﻿id,date,threat_type,flee_status,armed_with,city,county,state,latitude,longitude,location_precision,name,age,gender,race,race_source,was_mental_illness_related,body_camera,agency_ids
+380,4/17/15,point,foot,gun,Chicago,Cook,IL,41.760724,-87.572477,not_available,Jeffrey Kemp,18,male,B,not_available,FALSE,FALSE,265
+582,6/20/15,point,foot,gun,Chicago,Cook,IL,41.766403,-87.572648,not_available,Alfontish Cockerham,23,male,B,not_available,FALSE,FALSE,265
+624,7/9/15,point,foot,gun,Chicago,Cook,IL,41.7585177,-87.6078365,not_available,Martice Milliner,27,male,B,not_available,FALSE,FALSE,265
+1152,7/10/15,point,not,gun,Chicago,Cook,IL,41.7019119,-87.6077663,not_available,Eugene McSwain,25,male,B,not_available,FALSE,FALSE,265
+795,8/29/15,undetermined,car,unarmed,Chicago,Cook,IL,41.8507347,-87.6708972,not_available,Rafael Cruz Jr,29,male,H,not_available,FALSE,FALSE,265
+867,9/25/15,threat,not,knife,Chicago,Cook,IL,41.897401,-87.716727,not_available,James Anderson,33,male,B,not_available,FALSE,FALSE,265
+891,10/4/15,point,not,gun,Chicago,Cook,IL,41.867285,-87.7130299,not_available,Jeffery McCallum,31,male,B,not_available,FALSE,FALSE,265
+1123,12/26/15,accident,,unarmed,Chicago,Cook,IL,41.892567,-87.743598,not_available,Bettie Jones,55,female,B,not_available,FALSE,FALSE,265
+1124,12/26/15,undetermined,not,blunt_object,Chicago,Cook,IL,41.892567,-87.743598,not_available,Quintonio LeGrier,19,male,B,not_available,TRUE,FALSE,265
+1221,1/30/16,shoot,not,gun,Chicago,,IL,41.761132,-87.666495,not_available,Charles M. Smith,29,male,B,not_available,FALSE,FALSE,265
+1364,3/14/16,shoot,foot,gun,Chicago,Cook,IL,41.8710302,-87.7181233,not_available,Lamar Harris,29,male,B,not_available,FALSE,FALSE,265
+1388,3/19/16,shoot,foot,gun,Chicago,Cook,IL,41.9920104,-87.7934329,not_available,Thurman Reynolds,21,male,B,not_available,FALSE,FALSE,1206
+1455,4/11/16,point,foot,gun,Chicago,Cook,IL,41.8674429,-87.7109419,not_available,Pierre Loury,16,male,B,not_available,FALSE,FALSE,265
+1526,5/9/16,threat,foot,gun,Chicago,Cook,IL,41.8040499,-87.7262609,not_available,Michael Johnson,26,male,W,not_available,FALSE,FALSE,265
+1723,7/21/16,shoot,not,gun,Chicago,,IL,41.8578447,-87.6195926,not_available,Derek Love,50,male,B,not_available,FALSE,FALSE,265
+1742,7/28/16,threat,car,unarmed,Chicago,,IL,,,,Paul O'Neal,18,male,B,not_available,FALSE,TRUE,265
+2059,11/18/16,shoot,not,gun,Chicago,Cook,IL,41.768704,-87.673792,not_available,Darius Jones,26,male,B,not_available,FALSE,FALSE,265
+2073,11/23/16,threat,foot,gun,Chicago,Cook,IL,41.775683,-87.665705,not_available,Kajuan Raye,19,male,B,not_available,FALSE,TRUE,265
+2071,11/25/16,shoot,,gun,Chicago,Cook,IL,41.8735701,-87.7156559,not_available,Cleotha Mitchell,37,male,B,not_available,FALSE,FALSE,265
+2081,11/27/16,shoot,foot,gun,Chicago,Cook,IL,41.8781094,-87.740544,not_available,Richard Grimes,33,male,B,not_available,FALSE,FALSE,265
+2219,1/15/17,shoot,foot,gun,Chicago,Cook,IL,41.879988,-87.708724,not_available,Herbert Johnson,34,male,B,not_available,FALSE,FALSE,265
+2343,2/8/17,flee,foot,unarmed,Chicago,Cook,IL,41.8786738,-87.6403334,not_available,Chad Robertson,25,male,B,not_available,FALSE,FALSE,1657
+2326,2/10/17,attack,not,knife,Chicago,Cook,IL,41.952361,-87.688778,not_available,Michelle Robey,55,female,W,not_available,TRUE,FALSE,265
+2628,6/2/17,shoot,not,gun,Chicago,Cook,IL,41.759946,-87.623543,not_available,Corsean Lewis,17,male,B,not_available,FALSE,FALSE,265
+2755,7/9/17,shoot,foot,gun,Chicago,Cook,IL,41.932652,-87.751724,not_available,Brayant Alvarez,24,male,H,not_available,FALSE,FALSE,265
+2939,9/10/17,attack,not,,Chicago,Cook,IL,41.9187414,-87.7562954,not_available,Juan Flores,19,male,H,not_available,FALSE,TRUE,265
+3174,11/29/17,threat,,gun,Chicago,Cook,IL,41.7836946,-87.615996,not_available,Aquoness Cathery,24,male,B,not_available,FALSE,TRUE,265
+3730,6/2/18,attack,car,,Chicago,Cook,IL,41.871818,-87.7646476,not_available,Gus Tousis,43,male,B,not_available,FALSE,FALSE,2197
+3755,6/6/18,threat,,gun,Chicago,Cook,IL,41.8095108,-87.6193177,not_available,Maurice Granton Jr.,24,male,B,not_available,FALSE,FALSE,265
+3970,7/3/18,flee,foot,gun,Chicago,,IL,41.885593,-87.7431639,not_available,Terrell Eason,33,male,B,not_available,FALSE,TRUE,265
+3857,7/14/18,move,foot,gun,Chicago,Cook,IL,41.7664443,-87.5758689,not_available,Harith Augustus,37,male,B,not_available,FALSE,TRUE,265
+4470,2/16/19,threat,car,gun,Chicago,,IL,41.8543679,-87.6264793,not_available,Michael Elam,17,male,B,not_available,FALSE,FALSE,265
+4713,5/11/19,point,foot,gun,Chicago,,IL,41.8623461,-87.7177379,not_available,Sharell Brown,26,male,B,not_available,FALSE,FALSE,265
+5423,5/22/19,shoot,not,gun,Chicago,,IL,,,,Myles Frazier,22,male,B,not_available,TRUE,FALSE,265
+4746,5/28/19,threat,not,gun,Chicago,,IL,41.747824,-87.575038,not_available,Curtis Stagger,21,male,B,not_available,FALSE,FALSE,265
+5405,1/2/20,shoot,foot,gun,Chicago,,IL,41.9180154,-87.7770854,not_available,Mariano Ocon Jr.,31,male,H,not_available,FALSE,FALSE,265
+5341,1/4/20,threat,not,knife,Chicago,,IL,41.7519306,-87.5611946,not_available,Tyree Davis,25,male,B,not_available,FALSE,FALSE,265
+5521,2/9/20,shoot,foot,gun,Chicago,,IL,41.9472385,-87.6692155,not_available,Jeremy Grayson,31,male,B,not_available,FALSE,FALSE,265
+6149,8/31/20,shoot,,gun,Chicago,,IL,41.8712784,-87.6333311,not_available,Miguel Vega,26,male,H,not_available,FALSE,TRUE,265
+6148,9/5/20,threat,not,knife,Chicago,,IL,41.8028954,-87.7472086,not_available,Shaon Jermy Ochea Walker,34,male,B,not_available,FALSE,TRUE,265
+6260,10/23/20,point,foot,gun,Chicago,,IL,41.8444853,-87.7173954,not_available,Marc Nevarez,25,male,H,not_available,FALSE,FALSE,265
+6730,3/25/21,shoot,foot,gun,Chicago,,IL,41.810246,-87.6844725,not_available,Travon Chadwell,18,male,B,not_available,TRUE,FALSE,265
+6729,3/29/21,move,foot,undetermined,Chicago,,IL,41.8499599,-87.707606,not_available,Adam Toledo,13,male,H,not_available,FALSE,TRUE,265
+6757,3/31/21,threat,foot,gun,Chicago,,IL,41.9444244,-87.7570742,not_available,Anthony Alvarez,22,male,H,not_available,FALSE,FALSE,265
+7011,7/9/21,point,not,gun,Chicago,,IL,41.8792578,-87.7427628,not_available,Klevontaye White,34,male,B,not_available,FALSE,TRUE,265;2054
+7318,8/24/21,shoot,foot,gun,Chicago,,IL,41.8786897,-87.640311,not_available,Jamar Jayson Taylor,33,male,,,FALSE,FALSE,1657
+7193,9/19/21,threat,,knife,Chicago,,IL,41.7763851,-87.6336405,not_available,Turell Brown,28,male,B,clip,FALSE,FALSE,265
+7644,10/4/21,undetermined,,unarmed,Chicago,,IL,,,,Michael Craig,61,male,B,not_available,FALSE,TRUE,265
+7973,4/3/22,shoot,,gun,Chicago,,IL,41.753338,-87.7264837,not_available,,,male,,,FALSE,TRUE,265
+8472,10/2/22,threat,,gun,Chicago,,IL,41.9092463,-87.6385611,not_available,,,male,,,FALSE,FALSE,265
+8951,2/8/23,threat,foot,gun,Chicago,Cook,IL,41.94861028,-87.70666007,block,Isidro Valverde,21,male,,,FALSE,TRUE,265
+9128,4/15/23,threat,foot,gun,Chicago,Cook,IL,41.87259671,-87.72122024,block,Reginald Clay Jr.,24,male,,,FALSE,TRUE,265
