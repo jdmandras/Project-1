@@ -5,11 +5,10 @@ Unveiling Patterns: An In-depth Data Analysis of Arrests and Crime in Chicago, I
 - Background
 The objective of this project is to conduct a comprehensive data analysis of arrest and crime data in the city of Chicago, IL. By examining the available datasets, the project aims to provide valuable insights into patterns, trends, and correlations related to arrests and crimes within the city.
 
-- About the data
-
 
 
 - Limitations
+
 This data analysis project incorporates datasets from various resources, which introduces certain limitations that should be considered.
 
 Data pulled from varioous different sources.
