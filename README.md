@@ -5,9 +5,7 @@
 
 
 
-- Limitations
-
-This data analysis project incorporates datasets from various resources, which introduces certain limitations that should be considered.
+- Limitations: This data analysis project incorporates datasets from various resources, which introduces certain limitations that should be considered.
 
 Data pulled from varioous different sources.
 Firstly, the accuracy and reliability of the analysis heavily rely on the quality and consistency of the individual datasets used. In cases where the datasets have inconsistencies, errors, or missing values, the resulting analysis may be affected. Additionally, since the datasets are sourced from different resources, there might be variations in the data collection methodologies, definitions, or timeframes employed. 
