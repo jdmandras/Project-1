@@ -4,12 +4,13 @@ Note: See UnveilingPatterns.pdf for images from notebooks and see UnveilingPatte
    
 ## Purpose and Background
       
+      
       The purpose of this project is to give us a chance to interact with a strong issue Chicago and Chicagoans face; though there are plenty, our issue was…Crime. As cities around the U.S. deal with this issue, we wanted to do our due diligence as well. An attempt to fact check popular beliefs, which examples won’t be given as it is different to another individuals' biases. The last point to make regarding crime data in Chicago, luckily there is enough data to work with (perhaps even more than enough) due to city initiatives to be more data-driven. By examining the available datasets, the project aims to provide valuable insights into patterns, trends, and correlations related to arrests and crimes within the city. 
 
 ## Finding and Using Public Data
       
-      The data used in the analysis came from public data sources of the Chicago Police Department, Chicago’s Data Portal, and a publicly available dataset by the Washington Post. Sources are credible and were expected to be accurate, complete, and consistent. 
-The direct links to the sources we used in this project can be found in the References sections.
+      
+      The data used in the analysis came from public data sources of the Chicago Police Department, Chicago’s Data Portal, and a publicly available dataset by the Washington Post. Sources are credible and were expected to be accurate, complete, and consistent. The direct links to the sources we used in this project can be found in the References sections.
 
 ## Questions Worth Asking
       
