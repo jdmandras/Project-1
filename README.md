@@ -47,7 +47,7 @@ An Independent T-Test was performed to find out if the average crime count betwe
 
 ## References
 
-https://home.chicagopolice.org/statistics-data/public-arrest-data/
+https://home.chicagopolice.org/statistics-data/public-arrest-data/ <br>
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 https://github.com/washingtonpost/data-police-shootings
 https://fatalencounters.org
