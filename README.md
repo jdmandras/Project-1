@@ -9,7 +9,6 @@ Note: See UnveilingPatterns.pdf for images from notebooks and see UnveilingPatte
 
 ## Finding and Using Public Data
       
-      
       The data used in the analysis came from public data sources of the Chicago Police Department, Chicago’s Data Portal, and a publicly available dataset by the Washington Post. Sources are credible and were expected to be accurate, complete, and consistent. The direct links to the sources we used in this project can be found in the References sections.
 
 ## Questions Worth Asking
