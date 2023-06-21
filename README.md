@@ -54,10 +54,10 @@ https://fatalencounters.org
 
 
 Authors: 
-Jessica Andras
-Saber Garibi
-Andrew Rexford
-Dennys Urdiales
+Jessica Andras, 
+Saber Garibi, 
+Andrew Rexford, 
+Dennys Urdiales, 
 Jennifer Alvarez
 
 
